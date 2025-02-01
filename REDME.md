@@ -6,4 +6,7 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 It is a new line.
 #New_Line222222
-Updated Branch
+
+=======
+Updating for PUSH
+
